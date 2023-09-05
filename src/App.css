@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.link-container {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.linkedin-link {
+  display: block;
+  background-color: #0077b5;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.linkedin-link:hover {
+  background-color: #004471;
+}
